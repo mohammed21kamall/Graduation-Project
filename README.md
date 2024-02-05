@@ -1,1 +1,3 @@
 # Graduation-Project
+This is a recommendation system project for movie dataset ('MovieLens')
+And this a graduation project for me with my faculty ...
